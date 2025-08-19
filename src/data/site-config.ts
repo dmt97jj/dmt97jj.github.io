@@ -68,7 +68,7 @@ const siteConfig: SiteConfig = {
     footerNavLinks: [
         
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
@@ -78,10 +78,7 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
+        
         {
             text: 'X/Twitter',
             href: 'https://twitter.com/'
