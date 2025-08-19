@@ -58,11 +58,11 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'LinkedIn',
-            href: 'www.linkedin.com/in/barraza-barron'
+            href: 'https//:www.linkedin.com/in/barraza-barron'
         },
         {
             text: 'GitHub',
-            href: 'https:github.com/dmt97jj'
+            href: 'https//:github.com/dmt97jj'
         }
     ],
     footerNavLinks: [
