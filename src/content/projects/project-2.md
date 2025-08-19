@@ -52,3 +52,7 @@ Realicé determinadas pruebas automatizadas previamente diseñadas, con la inten
 ## Repositorio
 
 [UrbanRoutes](https://github.com/dmt97jj/qa-project-Urban-Routes-es)
+
+  video:
+    src: '/Pruebas automatizadas.mp4'
+    alt: video
