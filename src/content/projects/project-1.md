@@ -1,5 +1,5 @@
 ---
-title: 'Urban Scooter: ¡Scooters a domicilio'
+title: 'Urban Scooter: ¡Scooters a domicilio!'
 description: Urban Scooter es una aplicación web con la cual puedes rentar Scooters los cuales son entregados hasta tu domicilio. Puedes personalizar su color y decidir cuanto tiempo disfrutaras de él.
 publishDate: 'Jul 05 2025'
 seo:
@@ -10,7 +10,7 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-¡Renta un Scooter y recibelo en tu hogar!.
+¡Renta un Scooter y recibelo en tu hogar!
 
 **Project Overview:**
 Urban Scooter es el portal indicado si lo que quieres es disfrutar de los paseos más relajantes y emocionantes en un Scooter. Enfocado en dar la mejor experiencia y calidad a los usuarios.
