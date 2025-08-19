@@ -70,6 +70,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Contact',
             href: '/contact'
+        },
+        {
+            text: 'Sobre mi',
+            href: '/Sobre mi'
         }
     ],
     socialLinks: [
