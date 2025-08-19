@@ -73,14 +73,11 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Sobre mi',
-            href: '/Sobre mi'
+            href: '/about'
         }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
+        
         {
             text: 'Instagram',
             href: 'https://instagram.com/'
