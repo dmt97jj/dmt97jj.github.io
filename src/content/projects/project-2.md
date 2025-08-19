@@ -1,7 +1,7 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
+title: 'Urban Routes - Pruebas automatizadas.'
+description: Urban Routes ofrece una gran variedad de opciones para moverte por la ciudad.
+publishDate: 'jun 5 2025'
 isFeatured: true
 seo:
   image:
@@ -11,54 +11,44 @@ seo:
 
 ![Project preview](/project-2.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+
 
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
+Urban Routes es una aplicación para rentar diferentes opciones de movilidad urbana, desde taxis convencionales, hasta vehiculos de lujo, con amenidades incluidas en el vehiculo a gusto del usuario.
 
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
 
-## Objectives
+## Objetivos
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+1. Garantizar el correcto funcionamiento de la aplicación
+2. Realizar diferentes pruebas para determinar si funciona correctamente. Las cuales son:
+- Definir el punto de partida del viaje y el destino.
+- Seleccionar la tarifa "Comfort" dentro del servicio de solicitud de taxi.
+- Introducir un número de teléfono y verificar mediante un codigo enviado por mensaje de texto.
+- Se agregó un nuevo metodo de pago; una tarjeta de credito/debito.
+-Se probó el escribir un mensaje de texto al conductor del taxi.
+- Una solicitud para una manta y pañuelos.
+- Se agregaron 2 helados al pedido.
+- Se comprobó que se desplegara la nodal con la información de la solicitud del viaje y la busqueda de un conductor. Las 8 diferentes pruebas llevadas a cabo en la aplicación "Urban Routes" arrojaron resultados positivos, comprobando así, que la aplicación funciona de forma correcta, pues los resultados reales concuerdan con los resultados esperados, cumpliendo así, las pruebas de forma exitosa y funcionando a la perfección.
+## Herramientas Usadas
 
-## Features
+1. **Python**
 
-1. **Dynamic Destination Timelines:**
+2. **Pytest**
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+3. **Selenium WebDriver**
 
-2. **Interactive Historical Events:**
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+## Mi rol y actividades
 
-3. **Personalized Time Travel Planner:**
+- **Python:** 
+Realicé determinadas pruebas automatizadas previamente diseñadas, con la intención de corroborar su funcionamiento.
+- utilicé 4 diferentes archivos de Python para automatizar las pruebas.
+1. data.py donde se almacenó los valores a utilizar en los campos de solicitud.
+2. helpers.py para guardar funciones recurrentemente utilizadas.
+3. urbanRoutesPage.py en donde se guardaron los localizadores y funciones de la aplicación web.
+4. testUrbanRoutes.py en donde se ejecutaron las 8 pruebas automatizadas
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
 
-4. **Time-Port Virtual Reality Experience:**
+## Repositorio
 
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
-
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
-
-## Technology Stack
-
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
-
-## Outcome
-
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+[UrbanRoutes](https://github.com/dmt97jj/qa-project-Urban-Routes-es)

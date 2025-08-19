@@ -15,7 +15,7 @@ seo:
 **Project Overview:**
 Urban Scooter es el portal indicado si lo que quieres es disfrutar de los paseos más relajantes y emocionantes en un Scooter. Enfocado en dar la mejor experiencia y calidad a los usuarios.
 
-## Objectivos
+## Objetivos
 
 1. Estudiar y análizar a detalle los requisitos de las aplicaciones web y moviles de Urban Scooter.
 2. Identificar bugs y zonas grises en la funcionalidad y diseño de la aplicación.
