@@ -88,7 +88,7 @@ const siteConfig: SiteConfig = {
         title: '¡Hola! Bienvenidos a mi portafolio personal 🖥',
         text: "QA Engineer con un gran manejo sobre el trabajo bajo presión y enfocado en la búsqueda de soluciones de problemas de forma prioritaria, con un estudio y análisis meticuloso y exhaustivo en los procesos de control de calidad del desarrollo de software con dominio de lenguajes como Python y SQL, así como el claro manejo de herramientas como postman, solicitudes api, Android Studio, con dominio de Selenium WebDriver, Json, XML, HTML, que constantemente busco seguir desarrollándome profesional y académicamente, buscando mi crecimiento personal, entusiasta por el trabajo en equipo, con siempre la disposición y emoción de seguir aprendiendo.",
         image: {
-            src: '/hero.jpeg',
+            src: '/perfil.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
