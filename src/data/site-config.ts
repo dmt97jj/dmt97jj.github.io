@@ -39,9 +39,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    website: 'https://dmt97jj.github.io',
+    title: 'Juan Barraza',
+    subtitle: 'QA Engineer 💻',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -57,12 +57,12 @@ const siteConfig: SiteConfig = {
             href: '/projects'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'LinkedIn',
+            href: 'www.linkedin.com/in/barraza-barron'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'GitHub',
+            href: 'https:github.com/dmt97jj'
         }
     ],
     footerNavLinks: [
@@ -77,10 +77,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
