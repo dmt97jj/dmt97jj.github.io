@@ -1,7 +1,7 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Urban Scooter: ¡Scooters a domicilio'
+description: Urban Scooter es una aplicación web con la cual puedes rentar Scooters los cuales son entregados hasta tu domicilio. Puedes personalizar su color y decidir cuanto tiempo disfrutaras de él.
+publishDate: 'Jul 05 2025'
 seo:
   image:
     src: '/project-1.jpg'
@@ -10,57 +10,48 @@ seo:
 
 ![Project preview](/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+¡Renta un Scooter y recibelo en tu hogar!.
 
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+Urban Scooter es el portal indicado si lo que quieres es disfrutar de los paseos más relajantes y emocionantes en un Scooter. Enfocado en dar la mejor experiencia y calidad a los usuarios.
 
-## Objectives
+## Objectivos
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+1. Estudiar y análizar a detalle los requisitos de las aplicaciones web y moviles de Urban Scooter.
+2. Identificar bugs y zonas grises en la funcionalidad y diseño de la aplicación.
+3. Reportar en informe de error todos los bugs de ambas aplicaciones.
 
-## Features
+## Herramientas utilizadas
 
-1. **EcoScore and Challenges:**
+1. Python
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
 
-2. **Personalized Eco-Goals:**
+2. consulta en base de datos con SQL
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
 
-3. **Green Rewards Marketplace:**
+3. Solicitudes URL con Postman
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+- Pruebas de funcionalidad de cada elemento de la aplicación
 
-4. **Community Hub:**
+4. Pruebas moviles
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+- Uso de Android Studio para realizar pruebas moviles en diferentes dispositivos y versiones del SO
 
-5. **EcoEducator AI Assistant:**
+5. Documentación del proyecto
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+- Creación de casos de prueba y lista de comprobación
+- Elaboración de informes de error
 
-## Technology Stack
+## Mi Rol y tareas
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+- Análisis de los requisitos, así como la elaboración de los casos de prueba.
+- Ejecución de pruebas manuales, apoyandome con SQL para el manejo de datos, solicitudes URL y emulación de diferentes dispositivos moviles.
+- Reporte de errores y zonas grises en el informe de errores.
 
-## Outcome
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
+## Link a la documentación
 
-## Client Testimonial
+[Urban Scooter](https://docs.google.com/spreadsheets/d/1rbTMaXHgGgXLJVkWmvwfaij7ONgXNjud/edit?gid=925489201#gid=925489201)
 
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+
